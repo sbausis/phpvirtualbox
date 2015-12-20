@@ -1,3 +1,9 @@
+phpvirtualbox (5.0-4) stable; urgency=low
+
+  * Package phpVirtualbox 5.0-4 release
+
+ -- Simon Pascal Baur <simonbaur@0rca.ch>  Sat, 19 Dec 2015 19:23:00 +0100
+
 phpvirtualbox (5.0-3.1) stable; urgency=low
 
   * Take over :)
